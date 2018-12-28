@@ -1,4 +1,4 @@
-Version 0.0.6
+
 The intent of this document is to get developers up to speed on sther.co as quickly as possible.
 
 This is not ment to be exhaustive and in some cases will site other documentation but it is my hope that this will make the process of getting set up in under and hours.
